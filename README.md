@@ -1,4 +1,4 @@
-# Simple shell script for monitoring Umee umeevengers-1 testnet validators.
+# Simple shell script for monitoring Umee umeevengers-1c testnet validators.
 This shell script checks [Umee](https://github.com/umee-network/umee) validator node health, voting power, validator position and sent warnings to Telegram chat if the node is unsynced or something changed.
 <br/>
 #### Requirements

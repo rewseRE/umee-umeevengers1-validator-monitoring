@@ -7,7 +7,7 @@ LOG_FILE="umee.log"
 # Your node RPC address, e.g. "http://127.0.0.1:26657"
 NODE_RPC=""
 # Trusted node RPC address, e.g. "https://rpc.cosmos.network:26657"
-SIDE_RPC="https://umeevengers-1-rpc-1.nodes.guru"
+SIDE_RPC="https://umeevengers-1b-rpc-2.nodes.guru"
 # Telegram bot API
 TG_BOT=""
 # Telegram chat ID
